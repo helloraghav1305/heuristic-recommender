@@ -1,0 +1,4 @@
+fastai
+gradio
+pandas
+numpy
